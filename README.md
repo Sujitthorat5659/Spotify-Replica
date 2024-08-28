@@ -1,4 +1,4 @@
-# Spotify Music App
+# Spotify Replica
 
 This is a simple Spotify clone frontend project created using HTML, CSS, and JavaScript. It aims to replicate the basic functionality and appearance of the Spotify web player.
 
@@ -19,7 +19,7 @@ This is a simple Spotify clone frontend project created using HTML, CSS, and Jav
 
 ## How to Use
 
-1. Clone this repository to your local machine `git clone https://github.com/gaurav-bhadane/Spotify-Clone.git`.
+1. Clone this repository to your local machine `https://github.com/Sujitthorat5659/Spotify-Replica.git`.
 2. Open `index.html` in your preferred web browser.
 
 ## Future Improvements
